@@ -1,6 +1,6 @@
 ## 
 <h2 align="center"> Привет! Меня зовут Нина 👻 </h2>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Java+Backend+Dev" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Java+Backend+Dev" alt="Typing SVG" /></a>
 
 <!--
 **lojiloo/lojiloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
